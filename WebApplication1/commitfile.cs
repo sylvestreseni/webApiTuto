@@ -1,6 +1,6 @@
 namespace WebApplication1
 {
-    public class WeatherForecast
+    public class commitfile
     {
         public DateOnly Date { get; set; }
 

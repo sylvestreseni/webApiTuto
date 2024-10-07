@@ -1,6 +1,6 @@
 namespace WebApplication1
 {
-    public class WeatherForecast
+    public class TestClass
     {
         public DateOnly Date { get; set; }
 
